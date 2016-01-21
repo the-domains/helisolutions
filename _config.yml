@@ -1,7 +1,7 @@
 name: HeliSolutions
 favicon: null
-layout_spectrum: 0.3741696758661419
-typography_spectrum: 0.1026599386241287
+layout_spectrum: 0.49578
+typography_spectrum: 0.77093
 title: PNG HELICOPTER SOLUTIONS
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7523811236023903
-  lightness: 0.2751418789848685
-  saturation: 0.6826642889063805
-  rhythmicContrast: 0.37705534836277366
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
